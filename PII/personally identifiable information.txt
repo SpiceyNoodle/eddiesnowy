@@ -1,0 +1,2 @@
+GET /user.csv
+In burpsuite, going to respond with all web application users

